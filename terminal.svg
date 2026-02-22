@@ -105,17 +105,17 @@
 
   <!-- Line 6 -->
   <text x="16" y="179" class="l6">
-    <tspan class="arrow">→ </tspan><tspan class="out">👨‍💻 Crafting clean, efficient, and scalable software</tspan>
+    <tspan class="arrow">→ </tspan><tspan class="out">&#x1F4A1; Hungry to build, learn &amp; grow</tspan>
   </text>
 
   <!-- Line 7 -->
   <text x="16" y="199" class="l7">
-    <tspan class="arrow">→ </tspan><tspan class="out">🤝 Open to collaborations</tspan>
+    <tspan class="arrow">→ </tspan><tspan class="out">&#x1F91D; Open to exciting opportunities</tspan>
   </text>
 
   <!-- Line 8 -->
   <text x="16" y="219" class="l8">
-    <tspan class="arrow">→ </tspan><tspan class="out">🚀 Always shipping, always learning</tspan>
+    <tspan class="arrow">→ </tspan><tspan class="out">&#x1F680; Let&apos;s ship great products together!</tspan>
   </text>
 
   <!-- Blinking cursor -->
