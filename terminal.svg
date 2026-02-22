@@ -90,7 +90,7 @@
 
   <!-- Line 3: output -->
   <text x="16" y="109" class="l3">
-    <tspan class="arrow">→ </tspan><tspan class="out">Web Developer &amp; Software Developer</tspan>
+    <tspan class="arrow">→ </tspan><tspan class="out">Web Developer &amp; Software Engineer</tspan>
   </text>
 
   <!-- Line 4: output -->
@@ -105,17 +105,17 @@
 
   <!-- Line 6 -->
   <text x="16" y="179" class="l6">
-    <tspan class="arrow">→ </tspan><tspan class="out">Crafting clean, efficient, and</tspan>
+    <tspan class="arrow">→ </tspan><tspan class="out">👨‍💻 Crafting clean, efficient, and scalable software</tspan>
   </text>
 
   <!-- Line 7 -->
   <text x="16" y="199" class="l7">
-    <tspan class="arrow">→ </tspan><tspan class="out">scalable software — one commit</tspan>
+    <tspan class="arrow">→ </tspan><tspan class="out">🤝 Open to collaborations</tspan>
   </text>
 
   <!-- Line 8 -->
   <text x="16" y="219" class="l8">
-    <tspan class="arrow">→ </tspan><tspan class="out">at a time, across the cosmos.</tspan>
+    <tspan class="arrow">→ </tspan><tspan class="out">🚀 Always shipping, always learning</tspan>
   </text>
 
   <!-- Blinking cursor -->
